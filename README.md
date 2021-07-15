@@ -1,5 +1,7 @@
 # Workout Tracker
 
+Link to deployed application - https://alexku-workout-tracker.herokuapp.com/
+
 ## Description
 This application allows you to view, create and track your daily workout. When the user loads the page, they see information about latest workout and the options to create a new workout or continue with their last workout. The user can add one or more exercise to current or new workout. On the dashboard page, the user can track workouts data for the last 7 days.
 
